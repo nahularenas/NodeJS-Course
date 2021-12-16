@@ -1,3 +1,3 @@
 # NodeJS-Course
 
-## Currently taking the course.
+## Currently taking the course from Udemy
